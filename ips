@@ -343,3 +343,209 @@
 140.178.0.0/16  # Naval Undersea Warfare Center Division, Keyport
 140.187.0.0/16  # Fort Bragg
 140.194.0.0/16  # US Army Corps of Engineers
+140.195.0.0/16    # Naval Sea Systems Command
+140.199.0.0/16    # Naval Ocean Systems Center
+140.201.0.0/16    # HQ, 5th Signal Command
+140.202.0.0/16    # 106TH SIGNAL BRIGADE
+143.45.0.0/16     # 58th Signal Battalion
+143.46.0.0/16     # U.S. Army, 1141st Signal Battalion
+143.68.0.0/16     # Headquarters, USAISC
+143.69.0.0/16     # Headquarters, USAAISC
+143.70.0.0/16     # Headquarters, USAAISC
+143.71.0.0/16     # Headquarters, USAAISC
+143.72.0.0/16     # Headquarters, USAAISC
+143.73.0.0/16     # Headquarters, USAAISC
+143.74.0.0/16     # Headquarters, USAAISC
+143.75.0.0/16     # Headquarters, USAAISC
+143.76.0.0/16     # Headquarters, USAAISC
+143.77.0.0/16     # Headquarters, USAAISC
+143.78.0.0/16     # Headquarters, USAAISC
+143.79.0.0/16     # Headquarters, USAAISC
+143.80.0.0/16     # Headquarters, USAAISC
+143.81.0.0/16     # Headquarters, USAAISC
+143.82.0.0/16     # Headquarters, USAAISC
+143.84.0.0/16     # Headquarters, USAAISC
+143.85.0.0/16     # Headquarters, USAAISC
+143.86.0.0/16     # Headquarters, USAAISC
+143.87.0.0/16     # Headquarters, USAAISC
+143.232.0.0/16    # NASA Ames Research Center
+144.99.0.0/16     # United States Army Information Systems Command
+144.109.0.0/16    # Army Information Systems Command
+144.143.0.0/16    # Headquarters, Third United States Army
+144.144.0.0/16    # Headquarters, Third United States Army
+144.146.0.0/16    # Commander, Army Information Systems Center
+144.147.0.0/16    # Commander, Army Information Systems Center
+144.170.0.0/16    # HQ, 5th Signal Command
+144.192.0.0/16    # United States Army Information Services Command-Campbell
+144.233.0.0/16    # Defense Intelligence Agency
+144.234.0.0/16    # Defense Intelligence Agency
+144.235.0.0/16    # Defense Intelligence Agency
+144.236.0.0/16    # Defense Intelligence Agency
+144.237.0.0/16    # Defense Intelligence Agency
+144.238.0.0/16    # Defense Intelligence Agency
+144.239.0.0/16    # Defense Intelligence Agency
+144.240.0.0/16    # Defense Intelligence Agency
+144.241.0.0/16    # Defense Intelligence Agency
+144.242.0.0/16    # Defense Intelligence Agency
+144.252.0.0/16    # U.S. Army LABCOM
+146.17.0.0/16     # HQ, 5th Signal Command
+146.80.0.0/16     # Defence Research Agency
+146.98.0.0/16     # HQ United States European Command
+146.154.0.0/16    # NASA/Johnson Space Center
+146.165.0.0/16    # NASA Langley Research Center
+147.35.0.0/16     # HQ, 5th Signal Command
+147.36.0.0/16     # HQ, 5th Signal Command
+147.37.0.0/16     # HQ, 5th Signal Command
+147.38.0.0/16     # HQ, 5th Signal Command
+147.39.0.0/16     # HQ, 5th Signal Command
+147.40.0.0/16     # HQ, 5th Signal Command
+147.42.0.0/16     # Army CALS Project
+147.103.0.0/16    # Army Information Systems Software Center
+147.104.0.0/16    # Army Information Systems Software Center
+147.159.0.0/16    # Naval Air Warfare Center, Aircraft Division
+147.168.0.0/16    # Naval Surface Warfare Center
+147.169.0.0/16    # HQ, 5th Signal Command
+147.198.0.0/16    # Army Information Systems Command
+147.199.0.0/16    # Army Information Systems Command
+147.238.0.0/16    # Army Information Systems Command
+147.239.0.0/16    # 1112th Signal Battalion
+147.240.0.0/16    # US Army Tank-Automotive Command
+147.242.0.0/16    # 19th Support Command
+147.248.0.0/16    # Fort Monroe DOIM
+147.254.0.0/16    # 7th Communications Group
+148.114.0.0/16    # NASA, Stennis Space Center
+150.113.0.0/16    # 1114th Signal Battalion
+150.114.0.0/16    # 1114th Signal Battalion
+150.125.0.0/16    # Space and Naval Warfare Command
+150.133.0.0/16    # 10th Area Support Group
+150.144.0.0/16    # NASA Goddard Space Flight Center
+150.149.0.0/16    # Army Information Systems Command
+150.157.0.0/16    # USAISC-Fort Lee
+150.184.0.0/16    # Fort Monroe DOIM
+150.190.0.0/16    # USAISC-Letterkenny
+150.196.0.0/16    # USAISC-LABCOM
+152.82.0.0/16     # 7th Communications Group of the Air Force
+152.151.0.0/16    # U.S. Naval Space & Naval Warfare Systems Command
+152.152.0.0/16    # NATO Headquarters
+152.154.0.0/16    # Defense Information Systems Agency
+152.229.0.0/16    # Defense MegaCenter (DMC) Denver
+153.21.0.0/16     # USCENTAF/SCM
+153.22.0.0/16     # USCENTAF/SCM
+153.23.0.0/16     # USCENTAF/SCM
+153.24.0.0/16     # USCENTAF/SCM
+153.25.0.0/16     # USCENTAF/SCM
+153.26.0.0/16     # USCENTAF/SCM
+153.27.0.0/16     # USCENTAF/SCM
+153.28.0.0/16     # USCENTAF/SCM
+153.29.0.0/16     # USCENTAF/SCM
+153.30.0.0/16     # USCENTAF/SCM
+153.31.0.0/16     # Federal Bureau of Investigation
+155.5.0.0/16      # 1141st Signal Bn
+155.6.0.0/16      # 1141st Signal Bn
+155.7.0.0/16      # American Forces Information
+155.8.0.0/16     # U.S. Army Fort Gordon
+155.9.0.0/16     # United States Army Information Systems Command
+155.74.0.0/16    # PEO STAMIS
+155.75.0.0/16    # US Army Corps of Engineers
+155.76.0.0/16    # PEO STAMIS
+155.77.0.0/16    # PEO STAMIS
+155.78.0.0/16    # PEO STAMIS
+155.79.0.0/16    # US Army Corps of Engineers
+155.80.0.0/16    # PEO STAMIS
+155.81.0.0/16    # PEO STAMIS
+155.82.0.0/16    # PEO STAMIS
+155.83.0.0/16    # US Army Corps of Engineers
+155.84.0.0/16    # PEO STAMIS
+155.85.0.0/16    # PEO STAMIS
+155.86.0.0/16    # US Army Corps of Engineers
+155.87.0.0/16    # PEO STAMIS
+155.88.0.0/16    # PEO STAMIS
+155.96.0.0/16    # Drug Enforcement Administration
+155.149.0.0/16   # 1112th Signal Battalion
+155.155.0.0/16   # HQ, 5th Signal Command
+155.178.0.0/16   # Federal Aviation Administration
+155.213.0.0/16   # USAISC Fort Benning
+155.214.0.0/16   # Director of Information Management
+155.215.0.0/16   # USAISC-FT DRUM
+155.216.0.0/16   # TCACCIS Project Management Office
+155.217.0.0/16   # Directorate of Information Management
+155.218.0.0/16   # USAISC
+155.219.0.0/16   # DOIM/USAISC Fort Sill
+155.220.0.0/16   # USAISC-DOIM
+155.221.0.0/16   # USAISC-Ft Ord
+132.3.0.0/16     # Williams Air Force Base
+132.5.0.0/16     # 49th Fighter Wing
+132.6.0.0/16     # Ankara Air Station
+132.7.0.0/16     # SSG/SINO
+132.9.0.0/16     # 28th Bomb Wing
+132.10.0.0/16    # 319 Comm Sq
+132.11.0.0/16    # Hellenikon Air Base
+132.12.0.0/16    # Myrtle Beach Air Force Base
+132.13.0.0/16    # Bentwaters Royal Air Force Base
+132.14.0.0/16    # Air Force Concentrator Network
+132.15.0.0/16    # Kadena Air Base
+132.16.0.0/16    # Kunsan Air Base
+132.17.0.0/16    # Lindsey Air Station
+132.18.0.0/16    # McGuire Air Force Base
+132.19.0.0/16    # 100CS (NET-MILDENHALL)
+132.20.0.0/16    # 35th Communications Squadron
+132.21.0.0/16    # Plattsburgh Air Force Base
+132.22.0.0/16    # 23Communications Sq
+132.24.0.0/16    # Dover Air Force Base
+132.25.0.0/16    # 786 CS/SCBM
+132.27.0.0/16    # 39CS/SCBBN
+132.28.0.0/16    # 14TH COMMUNICATION SQUADRON
+132.30.0.0/16    # Lajes Air Force Base
+132.31.0.0/16    # Loring Air Force Base
+132.33.0.0/16    # 60CS/SCSNM
+132.34.0.0/16    # Cannon Air Force Base
+132.35.0.0/16    # Altus Air Force Base
+132.37.0.0/16    # 75 ABW
+132.38.0.0/16    # Goodfellow AFB
+132.39.0.0/16    # K.I. Sawyer Air Force Base
+132.40.0.0/16    # 347 COMMUNICATION SQUADRON
+132.42.0.0/16    # Spangdahlem Air Force Base
+132.43.0.0/16    # Zweibruchen Air Force Base
+132.45.0.0/16    # Chanute Air Force Base
+132.46.0.0/16    # Columbus Air Force Base
+132.48.0.0/16    # Laughlin Air Force Base
+132.49.0.0/16    # 366CS/SCSN
+132.50.0.0/16    # Reese Air Force Base
+132.52.0.0/16    # Vance Air Force Base
+132.54.0.0/16    # Langley AFB
+132.55.0.0/16    # Torrejon Air Force Base
+132.56.0.0/16    # 9 CS/SC
+132.57.0.0/16    # Castle Air Force Base
+132.58.0.0/16    # Nellis Air Force Base
+132.59.0.0/16    # 24Comm Squadron\SCSNA
+132.60.0.0/16    # 42ND COMMUNICATION SQUADRON
+132.61.0.0/16    # SSG/SIN
+132.62.0.0/16    # 377 COMMUNICATION SQUADRON
+132.79.0.0/16    # Army National Guard Bureau
+132.80.0.0/16    # NGB-AIS-OS / National Guard Bureau
+132.82.0.0/16    # Army National Guard Bureau
+132.86.0.0/16    # National Guard Bureau
+132.87.0.0/16    # National Guard Bureau
+132.94.0.0/16    # Army National Guard Bureau
+132.95.0.0/16    # National Guard Bureau / DOD Network Information Center
+132.104.0.0/16   # Army National Guard Bureau
+132.105.0.0/16   # Army National Guard Bureau
+132.109.0.0/16   # National Guard Bureau
+132.110.0.0/16   # Army National Guard Bureau
+132.114.0.0/16   # Army National Guard
+132.117.0.0/16   # Army National Guard Bureau
+132.118.0.0/16   # Army National Guard Bureau
+132.122.0.0/16   # South Carolina Army National Guard, USPFO
+132.132.0.0/16   # Army National Guard Bureau
+132.133.0.0/16   # National Guard Bureau
+132.134.0.0/16   # National Guard Bureau
+132.135.0.0/16   # National Guard Bureau
+132.136.0.0/16   # National Guard Bureau
+132.137.0.0/16   # National Guard Bureau
+132.138.0.0/16   # National Guard Bureau
+132.139.0.0/16   # National Guard Bureau
+132.140.0.0/16   # National Guard Bureau
+132.141.0.0/16   # National Guard Bureau
+132.142.0.0/16   # National Guard Bureau
+132.143.0.0/16   # National Guard Bureau
+132.159.0.0/16   # Army Information Systems Command
