@@ -549,3 +549,193 @@
 132.142.0.0/16   # National Guard Bureau
 132.143.0.0/16   # National Guard Bureau
 132.159.0.0/16   # Army Information Systems Command
+132.193.0.0/16    # Army Research Office
+132.250.0.0/16    # Naval Research Laboratory
+156.9.0.0/16      # U.S. Marshals Service
+157.150.0.0/16    # United Nations
+157.153.0.0/16    # COMMANDER NAVAL SURFACE U.S. PACIFIC FLEET
+157.202.0.0/16    # US Special Operations Command
+157.217.0.0/16    # U.S. Strategic Command
+158.1.0.0/16      # Commander, Tooele Army Depot
+158.2.0.0/16      # USAMC Logistics Support Activity
+158.3.0.0/16      # U.S. Army TACOM
+158.4.0.0/16      # UASISC Ft. Carson
+158.5.0.0/16      # 1112th Signal Battalion
+158.6.0.0/16      # USAISC-Ft. McCoy
+158.7.0.0/16      # USAISC-FLW
+158.8.0.0/16      # US Army Soldier Support Center
+158.9.0.0/16      # USAISC-CECOM
+158.10.0.0/16     # GOC
+158.11.0.0/16     # UASISC-Vint Hill
+158.12.0.0/16     # US Army Harry Diamond Laboratories
+158.13.0.0/16     # USAISC DOIM
+158.14.0.0/16     # 1112th Signal Battalion
+158.15.0.0/16     # Defense Megacenter Huntsville
+158.16.0.0/16     # Rocky Mountain Arsenal (PMRMA)
+158.17.0.0/16     # Crane Army Ammunition Activity
+158.18.0.0/16     # Defense Finance & Accounting Service Center
+158.19.0.0/16     # DOIM
+158.20.0.0/16     # DOIM
+158.235.0.0/16    # Marine Corps Central Design and Programming Activity
+158.243.0.0/16    # Marine Corps Central Design and Programming Activity
+158.244.0.0/16    # Marine Corps Central Design and Programming Activity
+158.245.0.0/16    # Marine Corps Central Design and Programming Activity
+158.246.0.0/16    # Marine Corps Central Design and Programming Activity
+159.120.0.0/16    # Naval Air Systems Command (Air 4114)
+160.132.0.0/16    # US Army Recruiting Command
+160.135.0.0/16    # 36th Signal BN
+160.138.0.0/16    # USAISC
+160.139.0.0/16    # USAISC
+160.140.0.0/16    # HQ, United States Army
+160.143.0.0/16    # USAISC
+160.145.0.0/16    # 1101st Signal Brigade
+160.146.0.0/16    # USAISC SATCOMSTA-CAMP ROBERTS
+160.150.0.0/16    # Commander, Moncrief Army Hospital
+161.124.0.0/16    # NAVAL WEAPONS STATION
+162.32.0.0/16     # Naval Aviation Depot Pensacola
+162.45.0.0/16     # Central Intelligence Agency
+162.46.0.0/16     # Central Intelligence Agency
+163.205.0.0/16    # NASA Kennedy Space Center
+163.206.0.0/16    # NASA Kennedy Space Center
+164.45.0.0/16     # Naval Ordnance Center, Pacific Division
+164.49.0.0/16     # United States Army Space and Strategic Defense
+164.158.0.0/16    # Naval Surface Warfare Center
+164.217.0.0/16    # Institute for Defense Analyses
+164.218.0.0/16    # Bureau of Naval Personnel
+164.219.0.0/16    # HQ USAFE WARRIOR PREPARATION CENTER
+164.220.0.0/16    # NIMIP/TIP/NEWNET
+164.221.0.0/16    # Information Technology
+164.223.0.0/16    # Naval Undersea Warfare Center
+164.224.0.0/16    # Secretary of the Navy
+164.225.0.0/16    # U.S. Army Intelligence and Security Command
+164.226.0.0/16    # Naval Exchange Service Command
+164.227.0.0/16    # Naval Surface Warfare Center, Crane Division
+164.228.0.0/16    # USCINCPAC J21T
+164.229.0.0/16    # NCTS-NOLA
+164.230.0.0/16    # Naval Aviation Depot
+164.231.0.0/16    # Military Sealift Command
+164.232.0.0/16    # United States Southern Command
+167.44.0.0/16     # Government Telecommunications Agency
+168.68.0.0/16     # USDA Office of Operations
+168.85.0.0/16     # Fort Sanders Alliance
+168.102.0.0/16    # Indiana Purdue Fort Wayne
+169.252.0.0/16    # U.S. Department of State
+169.253.0.0/16    # U.S. Department of State
+195.10.0.0/16     # Various – Do not scan
+204.34.128.0/24   # DISA-Eucom / BBN-STD, Inc.
+204.34.129.0/24   # Defense Technical Information Center
+204.34.130.0/24   # GSI
+204.34.131.0/24   # NSA NAPLES ITALY
+204.34.132.0/24   # NAVSTA ROTA SPAIN
+204.34.133.0/24   # NAS SIGONELLA ITALY
+204.34.134.0/24   # Naval Air Warfare Center Aircraft Division
+204.34.135.0/24   # GSI
+204.34.136.0/24   # Naval Undersea Warfare Center USRD – Orlando
+204.34.137.0/24   # Joint Spectrum Center
+204.34.138.0/24   # GSI
+204.34.139.0/24   # HQ, JFMO Korea, Headquarters
+204.34.140.0/24   # DISA D75
+204.34.141.0/24   # U.S. Naval Air Facility, Atsugi Japan
+204.34.142.0/24   # Naval Enlisted Personnel Management Center
+204.34.143.0/24   # Afloat Training Group Pacific
+204.34.144.0/24   # HQ Special Operations Command – Europe
+204.34.145.0/24   # Commander Naval Base Pearl Harbor
+204.34.147.0/24   # NAVSEA Information Management Improvement Program
+204.34.148.0/24   # Q112
+204.34.149.0/24   # Ctr. for Info. Sys.Security,CounterMeasures
+204.34.150.0/24   # Resource Consultants, Inc.
+204.34.151.0/24   # Personnel Support Activity, San Diego
+204.34.152.0/24   # NAVAL AIR FACILITY, ADAK
+204.34.153.0/24   # NAVSEA Logistics Command Detachment
+204.34.154.0/24    # PEARL HARBOR NAVAL SHIPYARD
+204.34.155.0/24    # PEARL HARBOR NAVAL SHIPYARD
+204.34.156.0/24    # Defense Photography School
+204.34.157.0/24    # Defense Information School
+204.34.158.0/24    # Defense Information School
+204.34.159.0/24    # Defense Information School
+204.34.160.0/24    # Defense Information School
+204.34.161.0/24    # Naval Air Systems Command
+204.34.162.0/24    # Puget Sound Naval Shipyard
+204.34.163.0/24    # Joint Precision Strike Demonstration
+204.34.164.0/24    # Naval Pacific Meteorology and Ocean
+204.34.165.0/24    # Joint Precision Strike Demonstration
+204.34.167.0/24    # USAF
+204.34.168.0/24    # Commander
+204.34.169.0/24    # Naval Air Warfare Center
+204.34.170.0/24    # Naval Air Systems Command
+204.34.171.0/24    # NAVSTA SUPPLY DEPARTMENT
+204.34.173.0/24    # SUBMEPP Activity
+204.34.174.0/24    # COMMANDER TASK FORCE 74 YOKOSUKA JAPAN
+204.34.176.0/24    # DISA-PAC, IPC-GUAM
+204.34.177.0/24    # Satellite Production Test Center
+204.34.181.0/24    # 940 Air Refueling Wing
+204.34.182.0/24    # Defense Megacenter Warner Robins
+204.34.183.0/24    # GCCS Support Facility
+204.34.184.0/24    # Nav Air Tech Serv Facility-Detachment
+204.34.185.0/24    # NAVAL SUPPORT FACILITY, DIEGO GARCIA
+204.34.186.0/24    # Defense Logistics Agency – Europe
+204.34.187.0/24    # NAVMASSO
+204.34.188.0/24    # Commander-In-Chief, US Pacific Fleet
+204.34.189.0/24    # Defense MegaCenter – St Louis
+204.34.190.0/24    # NAVMASSO
+204.34.192.0/24    # HQ SOCEUR
+204.34.193.0/24    # Second Marine Expeditionary Force
+204.34.194.0/24    # Second Marine Expeditionary Force
+204.34.195.0/24    # Second Marine Expeditionary Force
+204.34.196.0/24    # NAVCOMTELSTAWASHDC
+204.34.197.0/24    # INFORMATION SYSTEMS TECHNOLOGY CENTER
+204.34.198.0/24    # Naval Observatory Detachment, Colorado
+204.34.199.0/24    # NAVILCODETMECH
+204.34.200.0/24    # Navy Environmental Preventive Medicine
+204.34.201.0/24    # Port Hueneme Division, Naval Surf
+204.34.202.0/24    # Naval Facilities Engineering Housing
+204.34.203.0/24    # NAVSEA Logistics Command Detachment
+204.34.204.0/24    # Naval Air Warfare Center
+204.34.205.0/24    # Portsmouth Naval Shipyard
+204.34.206.0/24    # INFORMATION SYSTEMS TECHNOLOGY CENTER
+204.34.208.0/24    # Military Sealift Command Pacific
+204.34.209.0/24    # Military Sealift Command Pacific
+204.34.210.0/24    # Military Sealift Command Pacific
+204.34.211.0/24    # USAF Academy
+204.34.212.0/24    # 3rd Combat Service Support
+204.34.213.0/24    # 1st Radio Battalion
+204.34.214.0/24    # OASD (Health Affairs)
+204.34.215.0/24    # Second Marine Expeditionary Force
+204.34.216.0/24    # 1st Marine Air Wing
+204.34.217.0/24    # SA-ALC/LTE
+204.34.218.0/24    # 3rd Marine
+204.34.219.0/24    # Communications and Electronics
+204.34.220.0/24    # G-6 Operations
+204.34.221.0/24    # G-6 Operations
+204.34.222.0/24    # G-6 Operations
+204.34.223.0/24    # G-6 Operations
+204.34.224.0/24    # G-6 Operations
+204.34.225.0/24    # Joint Interoperability Test Command
+204.34.226.0/24    # NAVMASSO
+204.34.227.0/24    # NAVMASSO
+204.34.228.0/24    # Field Command Defense Nuclear Agency
+204.34.229.0/24    # Naval Space Command
+204.34.230.0/24    # Naval Pacific Meteorology and Oceanography
+204.34.232.0/24    # Military Family Housing
+204.34.233.0/24    # Navy Material Transportation Office
+204.34.234.0/24    # NAVMASSO
+204.34.235.0/24    # Defense Finance and Accounting Service
+204.34.237.0/24    # European Stars and Stripes
+204.34.238.0/24    # Pacific Stars and Stripes
+204.34.239.0/24    # PUGET SOUND NAVAL SHIPYARD
+204.34.240.0/24    # Naval Station, Guantanamo Bay
+204.34.242.0/24    # COMNAVSURFPAC
+204.34.243.0/24    # NAVMASSO
+204.34.244.0/24    # Amphibious Force, Seventh Fleet, U. S. Navy
+204.34.245.0/24    # USAF Space Command
+204.34.246.0/24    # USAF
+204.34.247.0/24    # U.S. Army Special Operations Command
+204.34.248.0/24    # FLEET COMBAT TRAINING CENTER ATLA
+204.34.249.0/24    # Naval Aviation Depot North Island
+204.34.250.0/24    # NAVMASSO
+204.34.251.0/24    # NAVSEA Log Command Detachment Pacific
+204.34.252.0/24    # Command Special Boat Squadron One
+204.34.253.0/24    # AFPCA/GNNN
+204.34.254.0/24    # Navy Environmental Preventive Medicine
+205.0.0.0/8        # Department of the Navy, Space and Naval Warfare System Command, Washington DC – SPAWAR
+207.30.0.0/16      # Sprint/United Telephone of Florida
