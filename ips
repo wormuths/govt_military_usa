@@ -3,7 +3,7 @@
 11.0.0.0/8        # DoD Intel Information Systems, Defense Intelligence Agency, Washington DC
 21.0.0.0/8        # US Defense Information Systems Agency
 22.0.0.0/8        # Defense Information Systems Agency
-25.0.0.0/8        # Royal Signals and Radar Establishment, UK
+25.0.0.0/8        # Royal Signals And Radar Establishment, UK
 26.0.0.0/8        # Defense Information Systems Agency
 29.0.0.0/8        # Defense Information Systems Agency
 30.0.0.0/8        # Defense Information Systems Agency
@@ -19,13 +19,13 @@
 128.43.0.0/16     # Defense Research Establishment-Ottawa
 128.47.0.0/16     # Army Communications Electronics Command
 128.49.0.0/16     # Naval Ocean Systems Center
-128.50.0.0/16     # Department of Defense
-128.51.0.0/16     # Department of Defense
+128.50.0.0/16     # Department Of Defense
+128.51.0.0/16     # Department Of Defense
 128.56.0.0/16     # U.S. Naval Academy
 128.60.0.0/16     # Naval Research Laboratory
 128.63.0.0/16     # Army Ballistics Research Laboratory
 128.80.0.0/16     # Army Communications Electronics Command
-128.98.0.0/16     # Defense Evaluation and Research Agency
+128.98.0.0/16     # Defense Evaluation And Research Agency
 128.102.0.0/16    # NASA Ames Research Center
 128.149.0.0/16    # NASA Headquarters
 128.154.0.0/16    # NASA Wallops Flight Facility
@@ -37,7 +37,7 @@
 128.160.0.0/16    # Naval Research Laboratory
 128.161.0.0/16    # NASA Ames Research Center
 128.183.0.0/16    # NASA Goddard Space Flight Center
-128.190.0.0/16    # Army Belvoir Research and Development Center
+128.190.0.0/16    # Army Belvoir Research And Development Center
 128.202.0.0/16    # 50th Space Wing
 128.216.0.0/16    # MacDill Air Force Base
 128.217.0.0/16    # NASA Kennedy Space Center
@@ -49,10 +49,10 @@
 129.52.0.0/16     # Wright-Patterson Air Force Base
 129.53.0.0/16     # 66SPTG-SCB
 129.54.0.0/16     # Vandenberg Air Force Base, CA
-129.92.0.0/16     # Air Force Institute of Technology
+129.92.0.0/16     # Air Force Institute Of Technology
 129.99.0.0/16     # NASA Ames Research Center
 129.131.0.0/16    # Naval Weapons Center
-129.139.0.0/16    # Army Armament Research Development and Engineering Center
+129.139.0.0/16    # Army Armament Research Development And Engineering Center
 129.141.0.0/16    # 85 Mission Support Squadron
 129.163.0.0/16    # NASA/Johnson Space Center
 129.164.0.0/16    # NASA IVV
@@ -63,14 +63,14 @@
 129.190.0.0/16    # Naval Underwater Systems Center
 129.198.0.0/16    # Air Force Flight Test Center
 129.209.0.0/16    # Army Ballistics Research Laboratory
-129.229.0.0/16    # U.S. Army Corps of Engineers
+129.229.0.0/16    # U.S. Army Corps Of Engineers
 129.251.0.0/16    # United States Air Force Academy
 130.40.0.0/16     # NASA Johnson Space Center
 130.90.0.0/16     # Mather Air Force Base
 130.109.0.0/16    # Naval Coastal Systems Center
 130.114.0.0/16    # Army Aberdeen Proving Ground Installation Support Activity
 130.124.0.0/16    # Honeywell Defense Systems Group
-130.165.0.0/16    # U.S. Army Corps of Engineers
+130.165.0.0/16    # U.S. Army Corps Of Engineers
 130.167.0.0/16    # NASA Headquarters
 131.3.0.0/16      # Mather Air Force Base
 131.6.0.0/16      # Langley Air Force Base
@@ -96,208 +96,208 @@
 131.52.0.0/16     # 56 Communications Squadron
 131.54.0.0/16     # Air Force Concentrator Network
 131.56.0.0/16     # Upper Heyford Air Force Base
-131.58.0.0/16  # Alconbury Royal Air Force Base
-131.59.0.0/16  # 7 Communications Squadron
-131.61.0.0/16  # McConnell Air Force Base
-131.62.0.0/16  # Norton Air Force Base
-131.71.0.0/16  # NAVAL AVIATION DEPOT CHERRY PO
-131.74.0.0/16  # Defense MegaCenter Columbus
-131.84.0.0/16  # Defense Technical Information Center
-131.92.0.0/16  # Army Information Systems Command – Aberdeen (EA)
-131.105.0.0/16  # McClellan Air Force Base
-131.110.0.0/16  # NASA/Michoud Assembly Facility
-131.120.0.0/16  # Naval Postgraduate School
-131.121.0.0/16  # United States Naval Academy
-131.122.0.0/16  # United States Naval Academy
-131.176.0.0/16  # European Space Operations Center
-131.182.0.0/16  # NASA Headquarters
-131.250.0.0/16  # Office of the Chief of Naval Research
-134.5.0.0/16  # Lockheed Aeronautical Systems Company
-134.11.0.0/16  # The Pentagon
-134.12.0.0/16  # NASA Ames Research Center
-134.51.0.0/16  # Boeing Military Aircraft Facility
-134.52.0.0/16  # Boeing Corporation
-134.78.0.0/16  # Army Information Systems Command-ATCOM
-134.80.0.0/16  # Army Information Systems Command
-134.118.0.0/16  # NASA/Johnson Space Center
-134.131.0.0/16  # Wright-Patterson Air Force Base
-134.136.0.0/16  # Wright-Patterson Air Force Base
-134.164.0.0/16  # Army Engineer Waterways Experiment Station
-134.165.0.0/16  # Headquarters Air Force Space Command
-134.194.0.0/16  # U.S. Army Aberdeen Test Center
-134.205.0.0/16  # 7th Communications Group
-134.207.0.0/16  # Naval Research Laboratory
-134.229.0.0/16  # Navy Regional Data Automation Center
-134.230.0.0/16  # Navy Regional Data Automation Center
-134.232.0.0/16  # U.S. Army, Europe
-134.233.0.0/16  # HQ 5th Signal Command
-134.234.0.0/16  # Southern European Task Force
-134.235.0.0/16  # HQ 5th Signal Command
-134.240.0.0/16  # U.S. Military Academy
-136.149.0.0/16  # Air Force Military Personnel Center
-136.178.0.0/16  # NASA Research Network
-136.188.0.0/16  # Defense Intelligence Agency
-136.207.0.0/16  # 69th Signal Battalion
-136.208.0.0/16  # HQ, 5th Signal Command
-136.209.0.0/16  # HQ 5th Signal Command
-136.210.0.0/16  # HQ 5th Signal Command
-136.212.0.0/16  # HQ 5th Signal Command
-136.213.0.0/16  # HQ, 5th Signal Command
-136.214.0.0/16  # HQ, 5th Signal Command
-136.215.0.0/16  # HQ, 5th Signal Command
-136.216.0.0/16  # HQ, 5th Signal Command
-136.217.0.0/16  # HQ, 5th Signal Command
-136.218.0.0/16  # HQ, 5th Signal Command
-136.219.0.0/16  # HQ, 5th Signal Command
-136.220.0.0/16  # HQ, 5th Signal Command
-136.221.0.0/16  # HQ, 5th Signal Command
-136.222.0.0/16  # HQ, 5th Signal Command
-137.1.0.0/16  # Whiteman Air Force Base
-137.2.0.0/16  # George Air Force Base
-137.3.0.0/16  # Little Rock Air Force Base
-137.4.0.0/16  # 437 CS/SC
-137.5.0.0/16  # Air Force Concentrator Network
-137.6.0.0/16  # Air Force Concentrator Network
-137.11.0.0/16  # HQ AFSPC/SCNNC
-137.12.0.0/16  # Air Force Concentrator Network
-137.17.0.0/16  # National Aerospace Laboratory
-137.24.0.0/16  # Naval Surface Warfare Center
-137.29.0.0/16  # First Special Operations Command
-137.67.0.0/16  # Naval Warfare Assessment Center
-137.94.0.0/16  # Royal Military College
-137.95.0.0/16  # Headquarters, U.S. European Command
-137.126.0.0/16  # USAF MARS
-137.127.0.0/16  # Army Concepts Analysis Agency
-137.128.0.0/16  # U.S. ARMY Tank-Automotive Command
-137.130.0.0/16  # Defense Information Systems Agency
-137.209.0.0/16  # Defense Information Systems Agency
-137.210.0.0/16  # Defense Information Systems Agency
-137.211.0.0/16  # Defense Information Systems Agency
-137.212.0.0/16  # Defense Information Systems Agency
-137.231.0.0/16  # HQ 5th Signal Command
-137.232.0.0/16  # Defense Information Systems Agency
-137.233.0.0/16  # Defense Information Systems Agency
-137.234.0.0/16  # Defense Information Systems Agency
-137.235.0.0/16  # Defense Information Systems Agency
-137.240.0.0/16  # Air Force Materiel Command
-137.241.0.0/16  # 75 ABW
-137.242.0.0/16  # Air Force Logistics Command
-137.243.0.0/16  # 77 CS/SCCN
-137.244.0.0/16  # 78 CS/SCSC
-137.245.0.0/16  # Wright Patterson Air Force Base
-137.246.0.0/16  # United States Atlantic Command Joint Training
-138.13.0.0/16  # Air Force Systems Command
-138.27.0.0/16  # Army Information Systems Command
-138.50.0.0/16  # HQ 5th Signal Command
-138.65.0.0/16  # HQ, 5th Signal Command
-138.76.0.0/16  # NASA Headquarters
-138.109.0.0/16  # Naval Surface Warfare Center
-138.115.0.0/16  # NASA Information and Electronic Systems Laboratory
-138.135.0.0/16  # DEFENSE PROCESSING CENTERPERAL HARBOR
-138.136.0.0/16  # Navy Computers and Telecommunications Station
-138.137.0.0/16  # Navy Regional Data Automation Center (NARDAC)
-138.139.0.0/16  # Marine Corps Air Station
-138.140.0.0/16  # Navy Regional Data Automation Center
-138.141.0.0/16  # Navy Regional Data Automation Center
-138.142.0.0/16  # Navy Regional Data Automation Center
-138.143.0.0/16  # Navy Regional Data Automation Center
-138.144.0.0/16  # NAVCOMTELCOM
-138.145.0.0/16  # NCTS WASHINGTON
-138.146.0.0/16  # NCTC
-138.147.0.0/16  # NCTC
-138.148.0.0/16  # NCTC
-138.149.0.0/16  # NCTC
-138.150.0.0/16  # NCTC
-138.151.0.0/16  # NCTC
-138.152.0.0/16  # NCTC
-138.153.0.0/16  # Yokosuka Naval Base
-138.154.0.0/16  # NCTC
-138.155.0.0/16  # NCTC
-138.156.0.0/16  # Marine Corps Central Design & Prog. Activity
-138.157.0.0/16  # Marine Corps Central Design & Prog. Activity
-138.158.0.0/16  # Marine Corps Central Design & Prog. Activity
-138.159.0.0/16  # NCTC
-138.160.0.0/16  # Naval Air Station
-138.161.0.0/16  # NCTC
-138.162.0.0/16  # NCTC
-138.163.0.0/16  # NCTC
-138.164.0.0/16  # NCTC
-138.165.0.0/16  # NCTC
-138.166.0.0/16  # NCTC
-138.167.0.0/16  # NOC, MCTSSA, East
-138.168.0.0/16  # Marine Corps Central Design & Prog. Activity
-138.169.0.0/16  # NAVAL COMPUTER AND TELECOMM
-138.169.12.0/24  # NAVAL COMPUTER AND TELECOMM
-138.169.13.0/24  # NAVAL COMPUTER AND TELECOMM
-138.170.0.0/16  # NCTC
-138.171.0.0/16  # NCTC
-138.172.0.0/16  # NCTC
-138.173.0.0/16  # NCTC
-138.174.0.0/16  # NCTC
-138.175.0.0/16  # NCTC
-138.176.0.0/16  # NCTC
-138.177.0.0/16  # NCTS Pensacola
-138.178.0.0/16  # NCTC
-138.179.0.0/16  # NCTC
-138.180.0.0/16  # NCTC
-138.181.0.0/16  # NCTC
-138.182.0.0/16  # CNO N60
-138.183.0.0/16  # NCTC
-138.184.0.0/16  # NCTS
-138.193.0.0/16  # NASA/Yellow Creek
-139.31.0.0/16  # 20th Tactical Fighter Wing
-139.32.0.0/16  # 48th Tactical Fighter Wing
-139.33.0.0/16  # 36th Tactical Fighter Wing
-139.34.0.0/16  # 52nd Tactical Fighter Wing
-139.35.0.0/16  # 50th Tactical Fighter Wing
-139.36.0.0/16  # 66th Electronic Combat Wing
-139.37.0.0/16  # 26th Tactical Reconnaissance Wing
-139.38.0.0/16  # 32nd Tactical Fighter Squadron
-139.39.0.0/16  # 81st Tactical Fighter Wing
-139.40.0.0/16  # 10th Tactical Fighter Wing
-139.41.0.0/16  # 39th Tactical Air Control Group
-139.42.0.0/16  # 40th Tactical Air Control Group
-139.43.0.0/16  # 401st Tactical Fighter Wing
-139.124.0.0/24  # Reseau Infomratique
-139.142.0.0/16  # UNKNOWN
-140.1.0.0/16  # Defense Information Systems Agency
-140.3.0.0/16  # Defense Information Systems Agency
-140.4.0.0/16  # Defense Information Systems Agency
-140.5.0.0/16  # Defense Information Systems Agency
-140.6.0.0/16  # Defense Information Systems Agency
-140.7.0.0/16  # Defense Information Systems Agency
-140.8.0.0/16  # Defense Information Systems Agency
-140.9.0.0/16  # Defense Information Systems Agency
-140.10.0.0/16  # Defense Information Systems Agency
-140.11.0.0/16  # Defense Information Systems Agency
-140.12.0.0/16  # Defense Information Systems Agency
-140.13.0.0/16  # Defense Information Systems Agency
-140.14.0.0/16  # DISA Columbus Level II NOC
-140.15.0.0/16  # Defense Information Systems Agency
-140.16.0.0/16  # Defense Information Systems Agency
-140.17.0.0/16  # Defense Information Systems Agency
-140.18.0.0/16  # Defense Information Systems Agency
-140.19.0.0/16  # Defense Information Systems Agency
-140.20.0.0/16  # Defense Information Systems Agency
-140.21.0.0/16  # Defense Information Systems Agency
-140.22.0.0/16  # Defense Information Systems Agency
-140.23.0.0/16  # Defense Information Systems Agency
-140.24.0.0/16  # ASIC ALLIANCE-MARLBORO
-140.25.0.0/16  # Defense Information Systems Agency
-140.26.0.0/16  # Defense Information Systems Agency
-140.27.0.0/16  # Defense Information Systems Agency
-140.28.0.0/16  # Defense Information Systems Agency
-140.29.0.0/16  # Defense Information Systems Agency
-140.30.0.0/16  # Defense Information Systems Agency
-140.31.0.0/16  # Defense Information Systems Agency
-140.32.0.0/16  # Defense Information Systems Agency
-140.33.0.0/16  # Defense Information Systems Agency
-140.34.0.0/16  # Defense Information Systems Agency
-140.35.0.0/16  # Defense Information Systems Agency
-140.36.0.0/16  # Defense Information Systems Agency
-140.37.0.0/16  # Defense Information Systems Agency
-140.38.0.0/16  # Defense Information Systems Agency
-140.39.0.0/16  # Defense Information Systems Agency
+131.58.0.0/16     # Alconbury Royal Air Force Base
+131.59.0.0/16     # 7 Communications Squadron
+131.61.0.0/16     # McConnell Air Force Base
+131.62.0.0/16     # Norton Air Force Base
+131.71.0.0/16     # NAVAL AVIATION DEPOT CHERRY PO
+131.74.0.0/16     # Defense MegaCenter Columbus
+131.84.0.0/16     # Defense Technical Information Center
+131.92.0.0/16     # Army Information Systems Command – Aberdeen (EA)
+131.105.0.0/16    # McClellan Air Force Base
+131.110.0.0/16    # NASA/Michoud Assembly Facility
+131.120.0.0/16    # Naval Postgraduate School
+131.121.0.0/16    # United States Naval Academy
+131.122.0.0/16    # United States Naval Academy
+131.176.0.0/16    # European Space Operations Center
+131.182.0.0/16    # NASA Headquarters
+131.250.0.0/16    # Office Of the Chief Of Naval Research
+134.5.0.0/16      # Lockheed Aeronautical Systems Company
+134.11.0.0/16     # The Pentagon
+134.12.0.0/16     # NASA Ames Research Center
+134.51.0.0/16     # Boeing Military Aircraft Facility
+134.52.0.0/16     # Boeing Corporation
+134.78.0.0/16     # Army Information Systems Command-ATCOM
+134.80.0.0/16     # Army Information Systems Command
+134.118.0.0/16    # NASA/Johnson Space Center
+134.131.0.0/16    # Wright-Patterson Air Force Base
+134.136.0.0/16    # Wright-Patterson Air Force Base
+134.164.0.0/16    # Army Engineer Waterways Experiment Station
+134.165.0.0/16    # Headquarters Air Force Space Command
+134.194.0.0/16    # U.S. Army Aberdeen Test Center
+134.205.0.0/16    # 7th Communications Group
+134.207.0.0/16    # Naval Research Laboratory
+134.229.0.0/16    # Navy Regional Data Automation Center
+134.230.0.0/16    # Navy Regional Data Automation Center
+134.232.0.0/16    # U.S. Army, Europe
+134.233.0.0/16    # HQ 5th Signal Command
+134.234.0.0/16    # Southern European Task Force
+134.235.0.0/16    # HQ 5th Signal Command
+134.240.0.0/16    # U.S. Military Academy
+136.149.0.0/16    # Air Force Military Personnel Center
+136.178.0.0/16    # NASA Research Network
+136.188.0.0/16    # Defense Intelligence Agency
+136.207.0.0/16    # 69th Signal Battalion
+136.208.0.0/16    # HQ, 5th Signal Command
+136.209.0.0/16    # HQ 5th Signal Command
+136.210.0.0/16    # HQ 5th Signal Command
+136.212.0.0/16    # HQ 5th Signal Command
+136.213.0.0/16    # HQ, 5th Signal Command
+136.214.0.0/16    # HQ, 5th Signal Command
+136.215.0.0/16    # HQ, 5th Signal Command
+136.216.0.0/16    # HQ, 5th Signal Command
+136.217.0.0/16    # HQ, 5th Signal Command
+136.218.0.0/16    # HQ, 5th Signal Command
+136.219.0.0/16    # HQ, 5th Signal Command
+136.220.0.0/16    # HQ, 5th Signal Command
+136.221.0.0/16    # HQ, 5th Signal Command
+136.222.0.0/16    # HQ, 5th Signal Command
+137.1.0.0/16      # Whiteman Air Force Base
+137.2.0.0/16      # George Air Force Base
+137.3.0.0/16      # Little Rock Air Force Base
+137.4.0.0/16      # 437 CS/SC
+137.5.0.0/16      # Air Force Concentrator Network
+137.6.0.0/16      # Air Force Concentrator Network
+137.11.0.0/16     # HQ AFSPC/SCNNC
+137.12.0.0/16     # Air Force Concentrator Network
+137.17.0.0/16     # National Aerospace Laboratory
+137.24.0.0/16     # Naval Surface Warfare Center
+137.29.0.0/16     # First Special Operations Command
+137.67.0.0/16     # Naval Warfare Assessment Center
+137.94.0.0/16     # Royal Military College
+137.95.0.0/16     # Headquarters, U.S. European Command
+137.126.0.0/16    # USAF MARS
+137.127.0.0/16    # Army Concepts Analysis Agency
+137.128.0.0/16    # U.S. ARMY Tank-Automotive Command
+137.130.0.0/16    # Defense Information Systems Agency
+137.209.0.0/16    # Defense Information Systems Agency
+137.210.0.0/16    # Defense Information Systems Agency
+137.211.0.0/16    # Defense Information Systems Agency
+137.212.0.0/16    # Defense Information Systems Agency
+137.231.0.0/16    # HQ 5th Signal Command
+137.232.0.0/16    # Defense Information Systems Agency
+137.233.0.0/16    # Defense Information Systems Agency
+137.234.0.0/16    # Defense Information Systems Agency
+137.235.0.0/16    # Defense Information Systems Agency
+137.240.0.0/16    # Air Force Materiel Command
+137.241.0.0/16    # 75 ABW
+137.242.0.0/16    # Air Force Logistics Command
+137.243.0.0/16    # 77 CS/SCCN
+137.244.0.0/16    # 78 CS/SCSC
+137.245.0.0/16    # Wright Patterson Air Force Base
+137.246.0.0/16    # United States Atlantic Command Joint Training
+138.13.0.0/16     # Air Force Systems Command
+138.27.0.0/16     # Army Information Systems Command
+138.50.0.0/16     # HQ 5th Signal Command
+138.65.0.0/16     # HQ, 5th Signal Command
+138.76.0.0/16     # NASA Headquarters
+138.109.0.0/16    # Naval Surface Warfare Center
+138.115.0.0/16    # NASA Information And Electronic Systems Laboratory
+138.135.0.0/16    # DEFENSE PROCESSING CENTERPERAL HARBOR
+138.136.0.0/16    # Navy Computers And Telecommunications Station
+138.137.0.0/16    # Navy Regional Data Automation Center (NARDAC)
+138.139.0.0/16    # Marine Corps Air Station
+138.140.0.0/16    # Navy Regional Data Automation Center
+138.141.0.0/16    # Navy Regional Data Automation Center
+138.142.0.0/16    # Navy Regional Data Automation Center
+138.143.0.0/16    # Navy Regional Data Automation Center
+138.144.0.0/16    # NAVCOMTELCOM
+138.145.0.0/16    # NCTS WASHINGTON
+138.146.0.0/16    # NCTC
+138.147.0.0/16    # NCTC
+138.148.0.0/16    # NCTC
+138.149.0.0/16    # NCTC
+138.150.0.0/16    # NCTC
+138.151.0.0/16    # NCTC
+138.152.0.0/16    # NCTC
+138.153.0.0/16    # Yokosuka Naval Base
+138.154.0.0/16    # NCTC
+138.155.0.0/16    # NCTC
+138.156.0.0/16    # Marine Corps Central Design & Prog. Activity
+138.157.0.0/16    # Marine Corps Central Design & Prog. Activity
+138.158.0.0/16    # Marine Corps Central Design & Prog. Activity
+138.159.0.0/16    # NCTC
+138.160.0.0/16    # Naval Air Station
+138.161.0.0/16    # NCTC
+138.162.0.0/16    # NCTC
+138.163.0.0/16    # NCTC
+138.164.0.0/16    # NCTC
+138.165.0.0/16    # NCTC
+138.166.0.0/16    # NCTC
+138.167.0.0/16    # NOC, MCTSSA, East
+138.168.0.0/16    # Marine Corps Central Design & Prog. Activity
+138.169.0.0/16    # NAVAL COMPUTER AND TELECOMM
+138.169.12.0/24   # NAVAL COMPUTER AND TELECOMM
+138.169.13.0/24   # NAVAL COMPUTER AND TELECOMM
+138.170.0.0/16    # NCTC
+138.171.0.0/16    # NCTC
+138.172.0.0/16    # NCTC
+138.173.0.0/16    # NCTC
+138.174.0.0/16    # NCTC
+138.175.0.0/16    # NCTC
+138.176.0.0/16    # NCTC
+138.177.0.0/16    # NCTS Pensacola
+138.178.0.0/16    # NCTC
+138.179.0.0/16    # NCTC
+138.180.0.0/16    # NCTC
+138.181.0.0/16    # NCTC
+138.182.0.0/16    # CNO N60
+138.183.0.0/16    # NCTC
+138.184.0.0/16    # NCTS
+138.193.0.0/16    # NASA/Yellow Creek
+139.31.0.0/16     # 20th Tactical Fighter Wing
+139.32.0.0/16     # 48th Tactical Fighter Wing
+139.33.0.0/16     # 36th Tactical Fighter Wing
+139.34.0.0/16     # 52nd Tactical Fighter Wing
+139.35.0.0/16     # 50th Tactical Fighter Wing
+139.36.0.0/16     # 66th Electronic Combat Wing
+139.37.0.0/16     # 26th Tactical Reconnaissance Wing
+139.38.0.0/16     # 32nd Tactical Fighter Squadron
+139.39.0.0/16     # 81st Tactical Fighter Wing
+139.40.0.0/16     # 10th Tactical Fighter Wing
+139.41.0.0/16     # 39th Tactical Air Control Group
+139.42.0.0/16     # 40th Tactical Air Control Group
+139.43.0.0/16     # 401st Tactical Fighter Wing
+139.124.0.0/24    # Reseau Infomratique
+139.142.0.0/16    # UNKNOWN
+140.1.0.0/16      # Defense Information Systems Agency
+140.3.0.0/16      # Defense Information Systems Agency
+140.4.0.0/16      # Defense Information Systems Agency
+140.5.0.0/16      # Defense Information Systems Agency
+140.6.0.0/16      # Defense Information Systems Agency
+140.7.0.0/16      # Defense Information Systems Agency
+140.8.0.0/16      # Defense Information Systems Agency
+140.9.0.0/16      # Defense Information Systems Agency
+140.10.0.0/16     # Defense Information Systems Agency
+140.11.0.0/16     # Defense Information Systems Agency
+140.12.0.0/16     # Defense Information Systems Agency
+140.13.0.0/16     # Defense Information Systems Agency
+140.14.0.0/16     # DISA Columbus Level II NOC
+140.15.0.0/16     # Defense Information Systems Agency
+140.16.0.0/16     # Defense Information Systems Agency
+140.17.0.0/16     # Defense Information Systems Agency
+140.18.0.0/16     # Defense Information Systems Agency
+140.19.0.0/16     # Defense Information Systems Agency
+140.20.0.0/16     # Defense Information Systems Agency
+140.21.0.0/16     # Defense Information Systems Agency
+140.22.0.0/16     # Defense Information Systems Agency
+140.23.0.0/16     # Defense Information Systems Agency
+140.24.0.0/16     # ASIC ALLIANCE-MARLBORO
+140.25.0.0/16     # Defense Information Systems Agency
+140.26.0.0/16     # Defense Information Systems Agency
+140.27.0.0/16     # Defense Information Systems Agency
+140.28.0.0/16     # Defense Information Systems Agency
+140.29.0.0/16     # Defense Information Systems Agency
+140.30.0.0/16     # Defense Information Systems Agency
+140.31.0.0/16     # Defense Information Systems Agency
+140.32.0.0/16     # Defense Information Systems Agency
+140.33.0.0/16     # Defense Information Systems Agency
+140.34.0.0/16     # Defense Information Systems Agency
+140.35.0.0/16     # Defense Information Systems Agency
+140.36.0.0/16     # Defense Information Systems Agency
+140.37.0.0/16     # Defense Information Systems Agency
+140.38.0.0/16     # Defense Information Systems Agency
+140.39.0.0/16     # Defense Information Systems Agency
 140.40.0.0/16  # Defense Information Systems Agency
 140.41.0.0/16  # Defense Information Systems Agency
 140.42.0.0/16  # Defense Information Systems Agency
