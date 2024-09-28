@@ -737,3 +737,5 @@
 204.34.252.0/24   # Command Special Boat Squadron One
 204.34.253.0/24   # AFPCA/GNNN
 204.34.254.0/24   # Navy Environmental Preventive Medicine
+205.0.0.0/8       # Department Of The Navy, Space And Naval Warfare System Command, Washington DC – SPAWAR
+207.30.0.0/16     # Sprint/United Telephone Of Florida
